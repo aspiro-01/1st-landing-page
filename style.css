@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    height:100vh;
+}
+.header{
+    background-color: #1F2937;
+    height: 30vh;
+
+}
