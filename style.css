@@ -31,8 +31,8 @@ body{
 .header-sub-1{
     display: flex;
     justify-content: space-between;
-    flex-wrap: wrap ;
-    gap: 32px;
+    gap: 128px;
+    
    
     
 }
@@ -47,8 +47,7 @@ body{
     gap: 16px;
     flex-basis: 50%;
     justify-content: end;
-    
-    overflow: hidden;
+    overflow:;
 }
 /*header subsection 2*/
 .header-sub-2{
