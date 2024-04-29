@@ -16,6 +16,7 @@ body{
     padding-left: 15vw;
     padding-right:15vw;
     color:#F9FAF8; 
+   
 }
 .header{
     display: flex;
@@ -23,6 +24,7 @@ body{
     font-family: sans-serif, sans-serif;
     padding-top: 16px;
     padding-bottom: 64px;
+    box-shadow: 0px 2px 5px gray ;
     
 }
 /*header subsection 1*/
@@ -78,6 +80,7 @@ body{
 .header div p{
     color: #E5E7EB;
     font-size: 18px; 
+    
 }
 .top-button{
     background-color: #3c5f97;
@@ -89,11 +92,22 @@ body{
 }
 .header-image{
     flex-basis: 50%;
-    height: 250px;
+    height:250px;
+    flex-basis: auto;
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: gray;
+    
+   
+   
+    
+   
+   
+}
+.header-image img{
+    box-shadow: 5px 5px 10px rgb(17, 95, 29)  ;
+   
+    
 }
 
 /*content section*/
